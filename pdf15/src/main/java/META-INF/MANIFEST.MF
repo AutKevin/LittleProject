@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: libs/antlr-2.7.2.jar libs/commons-imaging-1.0-20170517.221
+ 134-118.jar libs/commons-io-2.4.jar libs/itext-asian-5.2.0.jar libs/i
+ text-pdfa-5.5.10.jar libs/itext-xtra-5.5.10.jar libs/itextpdf-5.5.10.
+ jar libs/xmlworker-5.5.10.jar
+Main-Class: PdfWaterMark
+
